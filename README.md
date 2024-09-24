@@ -9,7 +9,7 @@ To implement a data-driven dynamic pricing strategy, businesses typically requir
   * cost data
   * customer segmentation data 
   * real-time market data
-The dataset utilised has been uploaded in the repository under Assets folder.
+The dataset utilised has been uploaded in the repository.
 
 # Libraries Employed
     * Numpy
